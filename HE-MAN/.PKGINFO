@@ -1,0 +1,8 @@
+pkgname = HE-MAN
+pkgver = 1.0.0-1
+pkgdesc = Fighting with HE-MAN for OpenBor
+arch = any
+group = openbor
+packager = inrepublica
+url = https://gamejolt.com/games/he-man/19434size = 208142336
+builddate = 1603287491

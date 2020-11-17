@@ -10,7 +10,7 @@ Vous trouverez ici le package du jeu HE-MAN pour l'émulateur OpenBor. Ce packag
 
 # Installation
 - Copier l'archive HE-MAN-?.?.?-?-any.pkg.tar.xz dans un répertoire de votre choix sur votre système BATOCERA (ex: Packaging).
-- Connectez vous en SSH, puis lancez la commande `pacman -U HE-MAN_2X-?.?.?-?.pkg.tar.xz` dans ce dossier.
+- Connectez vous en SSH, puis lancez la commande `pacman -U HE-MAN-?.?.?-?.pkg.tar.xz` dans ce dossier.
 
 # Suppression du package
 - Connectez vous en SSH à votre système BATOCERA
